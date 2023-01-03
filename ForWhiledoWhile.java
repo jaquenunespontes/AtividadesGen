@@ -1,10 +1,7 @@
-package ExercicioRepeticao;
 
-public class ForWhiledoWhile {
 	
 	import java.util.Scanner;
 
-	public class LacoDoWhile {
 
 		public static void main(String[] args) {
 			
@@ -56,11 +53,11 @@ public class ForWhiledoWhile {
 	}
 
 }
-package DesenvolvimentoJava;
+
 
 import java.util.Scanner;
 
-public class LacoFor {
+
 
 	public static void main(String[] args) {
 		
@@ -88,7 +85,6 @@ public class LacoFor {
 
 }
 
-public class Exercicio3While {
     public static void main(String args[])
     {
         Scanner ler = new Scanner(System.in);

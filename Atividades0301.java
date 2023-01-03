@@ -1,6 +1,4 @@
-package ForWhileDoWhile;
 
-public class Atividades0301 {
 	
 	Scanner leia = new Scanner(System.in);
 	
@@ -51,7 +49,7 @@ System.out.println("\nQuantidade de números ímpares é: "+contImpar);
 }
 
 }
-public static void main(String[] args) {
+
 	
 	Scanner leia = new Scanner(System.in);
 	int tabuada,x=1,resultado;
@@ -63,7 +61,9 @@ public static void main(String[] args) {
 		resultado = tabuada * x;
 		System.out.println("\n"+tabuada+" X "+x+" = "+resultado);
 		x++;
-	}while(x<=10);
+	}do 
+		
+		while(x<=10);
 
 }
 
